@@ -3,7 +3,6 @@
     "version": "0.0.1-SNAPSHOT",
     "version_control": ["git", "none"],
     "_copy_without_render": [
-        "*.jar",
-        "mvn"
+        "*.scala"
     ]
 }
